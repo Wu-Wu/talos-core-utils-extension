@@ -1,0 +1,2 @@
+VERSION: "{{ .COREUTILS_VERSION }}"
+TIER: "contrib"
